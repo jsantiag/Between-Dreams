@@ -1,0 +1,1 @@
+/* pin entry screen for lock mode*/
