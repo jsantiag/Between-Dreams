@@ -10,7 +10,7 @@ module.exports = class DreamEntryPage extends React.Component {
   render(){
     return(
       <View style={styles.container}>
-        <Text>holy fuckballs work pls</Text>
+        <Text>work pls</Text>
         <TextInput
           editable = {true}
           defaultValue = {"Write anything you remember upon waking, feelings, words, images. If nothing, then write that down to help make remembering your dream life a daily habit."}
