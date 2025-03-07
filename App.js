@@ -21,6 +21,7 @@ export default class App extends React.Component {
         { </PersistGate> 
           //breaking stuff
       </Provider>
+      //more broken stuff
     );
   }
 }
