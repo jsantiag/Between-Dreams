@@ -18,7 +18,8 @@ export default class App extends React.Component {
           { <ThemeContext.Provider value={getTheme(uiTheme)}> }
             <AppNavigator 
           { </ThemeContext.Provider> }
-        { </PersistGate> }
+        { </PersistGate> 
+          //breaking stuff
       </Provider>
     );
   }
